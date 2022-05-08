@@ -21,3 +21,4 @@ The predictions of the best model (without attention) are stored as csv file in 
 
 
 The lyrics are generated using a GPT-2 model which is fine tuned on two seperate datasets, with each containing songs from the rock and hip hop genres respectively. The **GPT_2_lyric_generate.ipynb** file contains functions which import the datasets and train the model. The last two code cells can be used to generate songs by providing a desirable prompt. 
+Note- The run_clm and run_generate files are used to train the gpt-2 model and generate lyrics respectively.
