@@ -6,7 +6,7 @@ To crerate and evaluate amodel with a specific set of hyperparameters, run the *
 The predictions of the best model (without attention) are stored as csv file in the folder predictions_vanilla. The langauge studied in this assignment is Tamil.
 
 
-The file named ***RnnWithAttn.ipynb*** can be used to train the model with attention, hyper parameter tuning, usingthe best model after hyper parameter tuning to generate the attention heat as well as connectivity visualisations. The predictions of the best model (without attention) are stored as csv file in the folder predictions_attention. The langauge studied in this assignment is Tamil.
+The file named ***RnnWithAttn.ipynb*** can be used to train the model with attention, do hyper parameter tuning, use the best model after hyper parameter tuning, generate the attention heat maps as well as connectivity visualisations. The predictions of the best model (with attention) are stored as csv file in the folder predictions_attention. The langauge studied in this assignment is Tamil.
 
 
 
